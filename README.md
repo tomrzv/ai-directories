@@ -4,10 +4,7 @@ This is a curated collection of AI tool directories designed to simplify the pro
 Want to contribute or add your product? Submit a request to this repository—it's free! 
 Join my growing list of AI tools and stay at the forefront of innovation.
 
-| Site Name | Domain | Submitted |
-|---|---|---|
 | Site Name | Domain |
-|---|---|---|
 | **1000 Tools** | [1000.tools](https://1000.tools) |
 | **100 AI Apps** | [100apps.org](https://100apps.org) |
 | **1payment Tools** | [1payment.tools](https://1payment.tools) |
