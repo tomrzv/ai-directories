@@ -361,22 +361,6 @@ This repo is useful for:
 
 ---
 
-## Suggested structure
-
-You can keep the repository simple with one main alphabetical table, or expand it later with optional sections such as:
-
-- Featured AI Directories
-- Recently Added
-- Free Submission Directories
-- Paid Submission Directories
-- High Authority Directories
-- Niche AI Directories
-- AI Agent Directories
-- AI Image Tool Directories
-- AI Writing Tool Directories
-
----
-
 ## Contributing
 
 Contributions are welcome.
