@@ -38,38 +38,21 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | Site Name | Domain |
 |---|---|
 | **1000 Tools** | [1000.tools](https://1000.tools) |
-| **100 AI Apps** | [100apps.org](https://100apps.org) |
-| **1payment Tools** | [1payment.tools](https://1payment.tools) |
-| **Add AI Directory** | [addaidirectory.com](https://addaidirectory.com) |
-| **Advanced Innovation** | [advanced-innovation.io](https://www.advanced-innovation.io) |
-| **AI Search Visibility & Optimization Tools** | [aeotools.space](https://www.aeotools.space) |
-| **Afford Hunt** | [affordhunt.com](https://affordhunt.com) |
 | **AgentHunter** | [agenthunter.io](https://www.agenthunter.io) |
-| **AI Hunter** | [ai-hunter.io](https://ai-hunter.io) |
-| **AI Search** | [ai-search.io](https://ai-search.io) |
-| **AI Sites Net** | [ai-sites.net](https://ai-sites.net) |
-| **AI-Tools Directory** | [ai-tools.directory](https://ai-tools.directory) |
 | **AI Agents Base** | [aiagentsbase.com](https://aiagentsbase.com) |
 | **AI Agents Directory** | [aiagentsdirectory.com](https://aiagentsdirectory.com) |
 | **AI Agents List** | [aiagentslist.com](https://aiagentslist.com) |
 | **AI Agents Live** | [aiagentslive.com](https://aiagentslive.com) |
 | **AI Agent Store** | [aiagentstore.ai](https://aiagentstore.ai) |
-| **AI Agents Verse** | [aiagentsverse.com](https://aiagentsverse.com) |
 | **AI Center** | [aicenter.ai](https://aicenter.ai) |
 | **AIChief** | [aichief.com](https://aichief.com) |
-| **AI combined** | [aicombined.com](https://aicombined.com) |
-| **AI Corner** | [aicorner.net](https://aicorner.net) |
 | **AI Depot** | [aidepot.co](https://aidepot.co) |
 | **AIDir** | [aidir.wiki](https://aidir.wiki) |
-| **AI Directory** | [aidirectory.org](https://www.aidirectory.org) |
 | **AI Directory** | [aidirectory.wiki](https://aidirectory.wiki) |
 | **AiDirs** | [aidirs.best](https://aidirs.best) |
 | **Submit** | [aidude.info](https://aidude.info) |
 | **Educator Tools** | [aieducator.tools](https://aieducator.tools) |
-| **AI Tools Explore** | [aiex.me](https://aiex.me) |
 | **AI For Developers** | [aifordevelopers.org](https://aifordevelopers.org) |
-| **AI Gadget** | [aigadget.io](https://aigadget.io) |
-| **AI Headshot Hub** | [aiheadshothub.com](https://aiheadshothub.com) |
 | **AI Hubs** | [aihubs.ai](https://aihubs.ai) |
 | **AI Hunt List** | [aihuntlist.com](https://aihuntlist.com) |
 | **AI Hustle** | [aihustle.tools](https://aihustle.tools) |
@@ -79,28 +62,21 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **AiMatchPro** | [aimatch.pro](https://aimatch.pro) |
 | **ainave** | [ainave.com](https://www.ainave.com) |
 | **AI Parabellum** | [aiparabellum.com](https://aiparabellum.com) |
-| **AI PEDIA HUB** | [aipediahub.com](https://aipediahub.com) |
 | **AI Pulse** | [aipulse.fyi](https://www.aipulse.fyi) |
 | **AI Respo** | [airespo.com](https://airespo.com) |
 | **AISuperSmart** | [aisupersmart.com](https://www.aisupersmart.com) |
-| **AI To Grow** | [aitogrow.com](https://aitogrow.com) |
 | **AI Tool Board** | [aitoolboard.com](https://aitoolboard.com) |
 | **AiToolex** | [aitoolex.com](https://aitoolex.com) |
 | **AI Tools Guru** | [aitoolguru.com](https://aitoolguru.com) |
-| **AI tool hunt** | [aitoolhunt.com](https://www.aitoolhunt.com) |
 | **AI Tool List** | [aitoollist.org](https://www.aitoollist.org) |
 | **AI Tool NET** | [aitoolnet.com](https://www.aitoolnet.com) |
 | **aitools.inc** | [aitools.inc](https://aitools.inc) |
 | **AI Tools Love** | [aitools.love](https://aitools.love) |
 | **AI Tools Neil Patel** | [aitools.neilpatel.com](https://aitools.neilpatel.com) |
-| **AI Tools Arena** | [aitoolsarena.com](https://aitoolsarena.com) |
 | **AI Tools Saver** | [aitoolsaver.com](https://www.aitoolsaver.com) |
 | **AI Tools Corner** | [aitoolscorner.com](https://aitoolscorner.com) |
 | **AI tools directory COM** | [aitoolsdirectory.com](https://aitoolsdirectory.com) |
-| **AI Tools For Me** | [aitoolsforme.com](https://aitoolsforme.com) |
 | **AI Tools Guide** | [aitoolsguide.com](https://aitoolsguide.com) |
-| **AIToolsHunt** | [aitoolshunt.com](https://aitoolshunt.com) |
-| **AI Tools List** | [aitoolslist.io](https://aitoolslist.io) |
 | **AI Tools Magazine** | [aitoolsmagazine.com](https://aitoolsmagazine.com) |
 | **AI Tools Marketer** | [aitoolsmarketer.com](https://aitoolsmarketer.com) |
 | **AI Tools Pin** | [aitoolspin.com](https://aitoolspin.com) |
