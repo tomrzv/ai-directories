@@ -134,23 +134,17 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **Easy with AI** | [easywithai.com](https://easywithai.com) |
 | **eBool** | [ebool.com](https://www.ebool.com) |
 | **EliteAI Tools** | [eliteai.tools](https://eliteai.tools) |
-| **Submit** | [eu.frms.link](https://eu.frms.link) |
 | **Every AI** | [every-ai.com](https://every-ai.com) |
 | **EveryDev.ai** | [everydev.ai](https://www.everydev.ai) |
 | **Evolmagazine.com** | [evolmagazine.com](https://www.evolmagazine.com) |
-| **Faind AI** | [faind.ai](https://faind.ai) |
 | **FastLaunch** | [fastlaunch.io](https://fastlaunch.io) |
-| **Favird** | [favird.com](https://favird.com) |
 | **Fazier** | [fazier.com](https://fazier.com) |
-| **FinancesOnline** | [financesonline.com](https://financesonline.com) |
 | **Find An AI Tools** | [findanaitools.com](https://findanaitools.com) |
 | **Find Cool Tools** | [findcool.tools](https://findcool.tools) |
 | **Find my AI Tool** | [findmyaitool.com](https://findmyaitool.com) |
 | **Findyouragent.ai** | [findyouragent.ai](https://findyouragent.ai) |
 | **First 100 users** | [first100users.com](https://www.first100users.com) |
-| **Flip Bytes** | [flipbytes.com](https://www.flipbytes.com) |
 | **flowtools** | [flowtools.co](https://www.flowtools.co) |
-| **Submit** | [forms.gle](https://forms.gle) |
 | **Foundr** | [foundr.ai](https://foundr.ai) |
 | **Free AI Tools Directory** | [free-ai-tools-directory.com](https://free-ai-tools-directory.com) |
 | **Free AI Tool** | [freeaitool.ai](https://freeaitool.ai) |
@@ -158,88 +152,53 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **FUTUREPEDIA** | [futurepedia.io](https://www.futurepedia.io) |
 | **Futurepedia Wiki** | [futurepedia.wiki](https://futurepedia.wiki) |
 | **FutureTools** | [futuretools.io](https://www.futuretools.io) |
-| **Gate2AI** | [gate2ai.com](https://www.gate2ai.com) |
 | **Getlatka** | [getlatka.com](https://getlatka.com) |
-| **Awesome AI Tools** | [github.com](https://github.com) |
-| **God of Prompt** | [godofprompt.ai](https://godofprompt.ai) |
 | **Good AI Tools** | [goodaitools.com](https://goodaitools.com) |
 | **GoPickHost** | [gopickhost.com](https://gopickhost.com) |
 | **GPT Academy** | [gptacademy.co](https://www.gptacademy.co) |
-| **GPTE** | [gpte.ai](https://gpte.ai) |
-| **Gpt Forge** | [gptforge.net](https://gptforge.net) |
 | **GPTs Store Top** | [gptsstore.top](https://gptsstore.top) |
 | **GPTs Hunter** | [gptshunter.com](https://www.gptshunter.com) |
-| **Grabon AI Directory** | [grabon.in](https://www.grabon.in) |
-| **GroupifyAI** | [groupify.ai](https://groupify.ai) |
 | **Havnai** | [havnai.com](https://havnai.com) |
-| **AI Tools Directory HCILAB** | [hcilab.org](https://www.hcilab.org) |
-| **HeyAIworld** | [heyaiworld.com](https://heyaiworld.com) |
-| **Igniter** | [igniter.ai](https://www.igniter.ai) |
-| **iLib** | [ilib.com](https://www.ilib.com) |
 | **IndieHunt** | [indiehunt.io](https://indiehunt.io) |
-| **Insanely Cool Tools** | [insanelycooltools.com](https://www.insanelycooltools.com) |
-| **Submit** | [inside.thewarehouse.ai](https://inside.thewarehouse.ai) |
 | **Insidr AI Directory** | [insidr.ai](https://www.insidr.ai) |
-| **Instant** | [instantai.io](https://instantai.io) |
 | **Intelligent Tools** | [intelligenttools.co](https://intelligenttools.co) |
 | **Invent List** | [inventlist.com](https://inventlist.com) |
-| **Ismailblogger** | [ismailblogger.com](https://ismailblogger.com) |
-| **Submit** | [kevinbhagat.lemonsqueezy.com](https://kevinbhagat.lemonsqueezy.com) |
 | **Kick Product** | [kickproduct.com](https://kickproduct.com) |
-| **KitPloit** | [kitploit.com](https://www.kitploit.com) |
 | **Lachief** | [lachief.io](https://www.lachief.io) |
-| **Submit** | [landing.mycloudmedia.co.uk](https://landing.mycloudmedia.co.uk) |
 | **Launched** | [launched.io](https://launched.io) |
-| **Launched Site** | [launched.site](https://launched.site) |
 | **Launching Next** | [launchingnext.com](https://www.launchingnext.com) |
 | **Launch Vault** | [launchvault.dev](https://www.launchvault.dev) |
-| **AI Library** | [library.phygital.plus](https://library.phygital.plus) |
 | **LineZine AI Tool Directory** | [linezine.com](https://linezine.com) |
 | **ListYourTool** | [listyourtool.com](https://www.listyourtool.com) |
 | **Look AI Tools** | [lookaitools.com](https://lookaitools.com) |
 | **MadGenius** | [madgenius.co](https://madgenius.co) |
 | **Makerlist.io** | [makerlist.io](https://makerlist.io) |
-| **Mars AI directory** | [marsx.dev](https://www.marsx.dev) |
 | **MicroLaunch** | [microlaunch.net](https://microlaunch.net) |
-| **MicroStartups** | [microstartups.co](https://www.microstartups.co) |
 | **Most Popular AI Tools** | [mostpopularaitools.com](https://mostpopularaitools.com) |
 | **Navfolders.com** | [navfolders.com](https://navfolders.com) |
 | **NavTools AI** | [navtools.ai](https://navtools.ai) |
 | **NeonRev** | [neonrev.com](https://www.neonrev.com) |
-| **Ben’s Bites News** | [news.bensbites.co](https://news.bensbites.co) |
-| **Submit** | [news.bensbites.com](https://news.bensbites.com) |
-| **NextGenTool** | [nextgentool.io](https://nextgentool.io) |
 | **Next Gen Tools** | [nextgentools.me](https://nextgentools.me) |
 | **Nextpedia** | [nextpedia.io](https://www.nextpedia.io) |
 | **OpenFuture AI** | [openfuture.ai](https://openfuture.ai) |
 | **OpenHunts** | [openhunts.com](https://openhunts.com) |
 | **OpenSaasDirectory** | [opensaas.directory](https://opensaas.directory) |
 | **OpenTools** | [opentools.ai](https://opentools.ai) |
-| **Paggu** | [paggu.com](https://www.paggu.com) |
 | **PitchWall** | [pitchwall.co](https://pitchwall.co) |
 | **Post Make** | [postmake.io](https://postmake.io) |
 | **PoweredbyAI** | [poweredbyai.app](https://poweredbyai.app) |
 | **Product Hunt** | [producthunt.com](https://www.producthunt.com) |
 | **Productivity Tools** | [productivity.directory](https://productivity.directory) |
-| **PureFuture** | [purefuture.net](https://purefuture.net) |
 | **R-AI Dev** | [r-ai.dev](https://r-ai.dev) |
 | **Resource fyi** | [resource.fyi](https://resource.fyi) |
 | **Saas AI Tools** | [saasaitools.com](https://saasaitools.com) |
-| **SaasBaba** | [saasbaba.com](https://saasbaba.com) |
 | **SaasHub** | [saashub.com](https://www.saashub.com) |
 | **Saas Po** | [saaspo.com](https://www.saaspo.com) |
 | **Saas Surf** | [saassurf.com](https://saassurf.com) |
 | **SaasWorthy** | [saasworthy.com](https://www.saasworthy.com) |
-| **Sales Tools AI** | [salestoolsai.top](https://salestoolsai.top) |
-| **Selljam.ai** | [selljam.ai](https://selljam.ai) |
 | **Show Me Best AI** | [showmebest.ai](https://showmebest.ai) |
-| **Sick Tools** | [sick.tools](https://www.sick.tools) |
-| **Sidebar** | [sidebar.io](https://sidebar.io) |
 | **SideProjectors** | [sideprojectors.com](https://www.sideprojectors.com) |
 | **Sitelike** | [sitelike.org](https://www.sitelike.org) |
-| **Smart Tools** | [smart-tools.ai](https://www.smart-tools.ai) |
-| **Software Suggest** | [softwaresuggest.com](https://www.softwaresuggest.com) |
-| **Software World** | [softwareworld.co](https://softwareworld.co) |
 | **Source Forge** | [sourceforge.net](https://sourceforge.net) |
 | **Spiff.store** | [spiff.store](http://spiff.store) |
 | **Stackshare** | [stackshare.io](https://stackshare.io) |
@@ -250,24 +209,19 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **Startup Buffer** | [startupbuffer.com](https://startupbuffer.com) |
 | **Startup Collections** | [startupcollections.com](https://startupcollections.com) |
 | **Startup Ranking** | [startupranking.com](https://www.startupranking.com) |
-| **Startup Roulette** | [startuproulette.com](https://startuproulette.com) |
 | **Startup AI Tools** | [startups.fyi](https://www.startups.fyi) |
-| **Startup Stage** | [startupstage.app](https://startupstage.app) |
 | **Startup Stash** | [startupstash.com](https://startupstash.com) |
 | **Stratup.ai** | [stratup.ai](https://stratup.ai) |
 | **AI Tools Submit** | [submitaitools.org](https://submitaitools.org) |
-| **Synoptica** | [synoptica.com](https://synoptica.com) |
 | **Tally.so** | [tally.so](https://tally.so) |
 | **Taily AI** | [tailyai.co](https://tailyai.co) |
 | **Tekpon** | [tekpon.com](https://tekpon.com) |
 | **Submit** | [thataicollection.com](https://www.thataicollection.com) |
-| **ThatsMyAI** | [thatsmy.ai](https://thatsmy.ai) |
 | **The ai Generation** | [theaigeneration.com](https://www.theaigeneration.com) |
 | **AI Library** | [theailibrary.co](https://www.theailibrary.co) |
 | **Thank John** | [thankjohn.com](https://thankjohn.com) |
 | **theaisurf** | [theaisurf.com](https://theaisurf.com) |
 | **The Hack Stack** | [thehackstack.com](https://thehackstack.com) |
-| **Startup Pitch** | [thestartuppitch.com](https://thestartuppitch.com) |
 | **TipSeason** | [tipseason.com](https://tipseason.com) |
 | **Tool AI** | [toolai.io](https://toolai.io) |
 | **Toolb** | [toolb.dev](https://toolb.dev) |
