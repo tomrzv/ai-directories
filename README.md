@@ -105,28 +105,17 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **Apps and Websites** | [appsandwebsites.com](https://appsandwebsites.com) |
 | **Appscriber** | [appscribed.com](https://appscribed.com) |
 | **AppsHunter** | [appsthunder.com](https://appsthunder.com) |
-| **AppSumo** | [appsumo.com](https://appsumo.com) |
 | **Ask AI For It** | [askaiforit.com](https://askaiforit.com) |
 | **Aura++** | [auraplusplus.com](https://auraplusplus.com) |
-| **Based Tools** | [basedtools.ai](https://www.basedtools.ai) |
 | **Best AI To** | [bestaito.com](https://bestaito.com) |
 | **Best of AI** | [bestofai.io](https://bestofai.io) |
-| **Best of Web** | [bestofweb.site](https://www.bestofweb.site) |
 | **Beta List** | [betalist.com](https://betalist.com) |
 | **Beyond AI Tools** | [beyondaitools.com](https://www.beyondaitools.com) |
 | **BroUseAI** | [brouseai.com](https://www.brouseai.com) |
 | **Buffer Apps** | [bufferapps.com](https://www.bufferapps.com) |
 | **BuildVoyage** | [buildvoyage.com](https://buildvoyage.com) |
 | **Byblos AI** | [byblosai.com](https://byblosai.com) |
-| **Chat AI Apps** | [chataiapps.com](https://www.chataiapps.com) |
-| **ChatGPT demo** | [chatgptdemo.com](https://chatgptdemo.com) |
-| **ClaudePro.directory** | [claudepro.directory](https://claudepro.directory) |
-| **CogList AI** | [coglist.com](https://coglist.com) |
-| **Crazy About Startups** | [crazyaboutstartups.com](https://crazyaboutstartups.com) |
-| **Creator Supply** | [creator.supply](https://creator.supply) |
-| **Crozdesk** | [crozdesk.com](https://crozdesk.com) |
 | **Crunchbase** | [crunchbase.com](https://www.crunchbase.com) |
-| **Daily tech AI** | [dailytech.ai](https://www.dailytech.ai) |
 | **Dang AI** | [dang.ai](https://dang.ai) |
 | **DataLook.io** | [datalook.io](https://datalook.io) |
 | **Deeplaunch.io** | [deeplaunch.io](https://deeplaunch.io) |
@@ -134,9 +123,7 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **Dessign** | [dessign.net](https://dessign.net) |
 | **Dev Hunt** | [devhunt.org](https://devhunt.org) |
 | **Dev Pages** | [devpages.io](https://www.devpages.io) |
-| **DevPost** | [devpost.com](https://devpost.com) |
 | **DEV Resources** | [devresourc.es](https://devresourc.es) |
-| **Digital Agency Network** | [digitalagencynetwork.com](https://digitalagencynetwork.com) |
 | **Direct2App** | [direct2app.com](https://www.direct2app.com) |
 | **Dofollow.Tools** | [dofollow.tools](https://dofollow.tools) |
 | **Dokey AI** | [dokeyai.com](https://dokeyai.com) |
