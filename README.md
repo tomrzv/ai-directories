@@ -281,28 +281,21 @@ All directories are listed **alphabetically** for simple browsing and maintenanc
 | **Future AI Guide** | [tools.futureaiguide.com](https://tools.futureaiguide.com) |
 | **Robingood** | [tools.robingood.com](https://tools.robingood.com) |
 | **Tools** | [tools.so](https://tools.so) |
-| **Tools AI** | [toolsai.net](https://toolsai.net) |
 | **ToolScout** | [toolscout.ai](https://toolscout.ai) |
 | **ToolsFine** | [toolsfine.com](https://toolsfine.com) |
 | **Tools Hub AI** | [toolshubai.com](https://toolshubai.com) |
 | **Tools Nocode** | [toolsnocode.com](https://www.toolsnocode.com) |
 | **Toolspedia** | [toolspedia.io](https://www.toolspedia.io) |
-| **Toolwave.io** | [toolwave.io](https://www.toolwave.io) |
 | **Tool Board** | [toolboard.org](https://toolboard.org) |
 | **TopAI.tools** | [topai.tools](https://topai.tools) |
 | **Top AI Tools Hub** | [topaitoolshub.com](https://www.topaitoolshub.com) |
-| **Top Apps AI** | [topapps.ai](https://topapps.ai) |
 | **Top Tools** | [toptools.ai](https://www.toptools.ai) |
-| **AI Agents Marketplace** | [trillionagent.com](https://trillionagent.com) |
-| **TrustList** | [trustlist.ai](https://www.trustlist.ai) |
 | **Uno Directory** | [uno.directory](https://uno.directory) |
 | **Webspot** | [webspot.app](https://webspot.app) |
-| **Webwiki** | [webwiki.com](https://www.webwiki.com) |
 | **WhatstheBigData.com** | [whatsthebigdata.com](https://whatsthebigdata.com) |
 | **What the AI** | [whattheai.tech](https://whattheai.tech) |
 | **Woi AI** | [woy.ai](https://woy.ai) |
 | **Yet Another AI Tool Directory** | [yaatd.com](https://yaatd.com) |
-| **Your Story** | [yourstory.com](https://yourstory.com) |
 | **Zen99** | [zen99.co](https://zen99.co) |
 
 ## Why this repo is useful
